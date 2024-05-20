@@ -1,12 +1,15 @@
-![image](https://github.com/Katsukii01/EspcapeFromAnsTheGame/assets/97676458/9d8e05b7-4540-4f4b-a90e-a6d66fb6d509)# EspcapeFromAnsTheGame
+# EspcapeFromAnsTheGame
 Game in unity about my university 
 ```diff
-!! 
 ----- U can download game here  ------!!
 ```
+
 https://drive.google.com/drive/folders/1-XRuia8L5NummXXiyMgm_0uWzIe-O_ur?usp=sharing
 
+
 Some pictures from game
+
+![image](https://github.com/Katsukii01/EspcapeFromAnsTheGame/assets/97676458/9d8e05b7-4540-4f4b-a90e-a6d66fb6d509)
 
 ![image](https://github.com/Katsukii01/EspcapeFromAnsTheGame/assets/97676458/f4f0e7c7-1568-4c5d-a3fc-6b6473974adc)
 
