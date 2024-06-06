@@ -1,11 +1,5 @@
 # EspcapeFromAnsTheGame
 Game in unity about my university 
-```diff
------ U can download game here  ------!!
-```
-
-https://drive.google.com/drive/folders/1-XRuia8L5NummXXiyMgm_0uWzIe-O_ur?usp=sharing
-
 
 Some pictures from game
 
